@@ -1,2 +1,2 @@
-# legacy-deployment-scripts
-Scripts to deploy to legacy environments
+# Legacy Deployment Scripts
+Powershell and other scripts to deploy to legacy environments
